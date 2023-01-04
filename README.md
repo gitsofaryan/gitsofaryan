@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg" width="512px"/>
+<img src="https://i.redd.it/auhw3vsptz9a1.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gitsofaryan&icon=0&color=0)](https://visitcount.itsvg.in)
