@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning on Full stack Dev.<br>👯 I’m looking to collaborate on Open source projects.💬 Ask me about #web #ui_ux<br>⚡ Coding is more than just writing, compiling, and executing. It is a fun and exciting skills to learn that could help you develop a good career in the future.
+🔭 I’m currently Learning Full stack Dev.<br>👯 I’m looking to collaborate on Open source projects.💬 Ask me about #web #ui_ux<br>⚡ Coding is more than just writing, compiling, and executing. It is a fun and exciting skills to learn that could help you develop a good career in the future.
 
 
 ## 🌐 Socials:
