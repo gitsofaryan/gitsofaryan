@@ -10,7 +10,7 @@ v<h1 align="center">Hello There 🤙,Aryan Jain </h1>
 
 <h3> Skills: HTML, CSS, JS, C++, React ,Firebase, C </h3>
 
-<h3> College: </h3> <br />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsofaryan&label=Profile%20views&color=0e75b6&style=flat" alt="gitsofaryan"> </p>
 
