@@ -22,8 +22,7 @@
 
 <h3>🏅 My Favourite Hobby Music, Singing, sketching</h3>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitsofaryan&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitsofaryan&theme=aura)
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gitsofaryan" alt="gitsofaryan"> </p>
 
