@@ -1,38 +1,36 @@
-<h2 align="left">Hi 👋! My name is Aryan and I'm a FullStack-Developer, from India</h2>
+v<h1 align="center">Hello There 🤙,Aryan Jain </h1>
 
-###
+<h3 align="center"> FullStack Developer | Open Source Enthusiast </h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitsofaryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsofaryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<p align="center"> Hello there! 👋 I'm Aryan, a passionate learner on a journey towards becoming a Full Stack Web Developer and an ardent enthusiast of open-source technologies. My curiosity knows no bounds, and I'm always eager to explore the fascinating worlds of AI, ML, and Cloud Computing, along with all the cutting-edge technologies that emerge. I believe in the power of continuous learning and strive to be an eternal student throughout my life. As I embark on my quest to master the art of web development, I'm excited to contribute to open-source projects and collaborate with like-minded individuals, exchanging knowledge and ideas. Join me on this incredible adventure as I dive into the ever-evolving landscape of technology, seeking to make a positive impact and leaving no stone unturned in my pursuit of excellence. Let's code, innovate, and build a brighter future together! 🚀 #OpenSource #AI #ML #CloudComputing #FullStackWebDev #LifelongLearner </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<h3> Skills: HTML, CSS, JS, C++, React ,Firebase, C </h3>
 
-###
+<h3> College: </h3> <br />
 
-<br clear="both">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsofaryan&label=Profile%20views&color=0e75b6&style=flat" alt="gitsofaryan"> </p>
 
-<img src="https://raw.githubusercontent.com/gitsofaryan/gitsofaryan/output/snake.svg" alt="Snake animation" />
+<h2 align="left"> What I am Doing? </h2>
 
-###
+<h3>🚧 I’m currently working on Open-Source Programs</h3>
+
+<h3>📑 I'm Currently Learning Full Stack Development</h3>
+
+<h3>🏅 My Favourite Hobby Music, Singing, sketching</h3>
+
+
+<h2 align="center">Connect Me In</h2>
+
+<a href="" target="black" alt=https://www.instagram.com/arien_jain/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height="30" width="40" /> </a><a href="" target="black" alt=https://www.linkedin.com/in/aryan-jain07/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gitsofaryan" alt="gitsofaryan"> </p>
+
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitsofaryan&" alt="gitsofaryan" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsofaryan&show_icons=true&locale=en&layout=compact" alt="gitsofaryan" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gitsofaryan&show_icons=true&locale=en" alt="gitsofaryan" ></p>
