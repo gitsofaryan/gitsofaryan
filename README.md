@@ -10,25 +10,26 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitsofaryan&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitsofaryan&theme=aura)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsofaryan&label=Profile%20views&color=0e75b6&style=flat" alt="gitsofaryan"> </p>
-
-<h2 align="left"> What I am Doing? </h2>
-
-<h3>🚧 I’m currently working on Open-Source Programs</h3>
-
-<h3>📑 I'm Currently Learning Full Stack Development</h3>
-
-<h3>🏅 My Favourite Hobby Music, Singing, sketching</h3>
+# 💫 About Me:
+🔭 I’m currently working on Open-Source Contributions<br>👯 I’m looking to collaborate on Skillful Projects<br>🤝 I’m looking for help with Peer Project works<br>🌱 I’m currently learning Full Stack Development<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arien_jain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-jain07) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mail.aryan.jain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/socalledaryan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aryanjain1506) 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gitsofaryan" alt="gitsofaryan"> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gitsofaryan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gitsofaryan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsofaryan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitsofaryan&" alt="gitsofaryan" > </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gitsofaryan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsofaryan&show_icons=true&locale=en&layout=compact" alt="gitsofaryan" > </p>
+---
+[![](https://visitcount.itsvg.in/api?id=gitsofaryan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gitsofaryan&show_icons=true&locale=en" alt="gitsofaryan" ></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
