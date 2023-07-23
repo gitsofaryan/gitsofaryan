@@ -1,4 +1,4 @@
-v<h1 align="center">Hello There 🤙,Aryan Jain </h1>
+<h1 align="center">Hello There 🤙,Aryan Jain </h1>
 
 <h3 align="center"> FullStack Developer | Open Source Enthusiast </h3>
 
